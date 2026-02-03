@@ -5,3 +5,5 @@ print("git change 2")
 =======
 print("Feature2 update")
 >>>>>>> feature2
+
+print("chirag commit")
